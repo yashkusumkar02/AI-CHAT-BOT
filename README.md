@@ -1,4 +1,4 @@
-# AI Chatbot App
+# AI Chatbot App (FLUTTER)
 
 This is a Flutter application that provides a conversational interface with an AI chatbot named Gemini. Users can interact with Gemini in real-time, view past messages, and send new messages.
 
@@ -47,10 +47,6 @@ The home screen serves as the central navigation point for this AI chatbot app. 
 
 We encourage contributions to this project! If you have improvements or suggestions, feel free to create a pull request.
 
-## License
-
-This project is licensed under the MIT License [check the LICENSE file for details](LICENSE).
-
 ## Author
 
-Aayush D.C Dangi (dcaayushd)
+Suyash Prakash Kusumkar
