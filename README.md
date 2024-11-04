@@ -4,7 +4,8 @@ This is a Flutter application that provides a conversational interface with an A
 
 ## Screenshot
 
-![Screenshot](assets/screenshots/app_demo.png)
+![AI CHAT BOT (FLUTTER APP)](https://github.com/user-attachments/assets/15852e11-e0ff-4092-8910-f5f68771d054)
+
 
 ## Features
 
